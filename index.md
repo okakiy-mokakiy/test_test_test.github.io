@@ -1,9 +1,7 @@
 ## Welcome to GitHub Pages
 
-```python
-def go_and_fucnk_yourself(x):
-    return x**x
-```
+
+[ozon](https://www.ozon.ru/)
 
 You can use the [editor on GitHub](https://github.com/okakiy-mokakiy/test_test_test.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
