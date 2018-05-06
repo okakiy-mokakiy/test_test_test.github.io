@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 
-[##ozon](https://www.ozon.ru/)
+[ozon](https://www.ozon.ru/)
 
 You can use the [editor on GitHub](https://github.com/okakiy-mokakiy/test_test_test.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
