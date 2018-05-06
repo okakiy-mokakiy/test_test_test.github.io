@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-```
+```python3
 def go_and_fucnk_yourself(x):
     return x**x
 ```
